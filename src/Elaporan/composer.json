@@ -1,0 +1,15 @@
+{
+    "name": "esrk/elaporan",
+    "description": "CakePHP skeleton app",
+    "homepage": "http://cakephp.org",
+    "type": "project",
+    "license": "MIT",
+    "require": {
+  
+    },
+    "require-dev": {
+    
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
